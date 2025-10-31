@@ -42,7 +42,7 @@ bridge:
     scan_beams: 1080
 
     # map parameters
-    map_path: 'levine'
+    map_path: '/sim_ws/src/f1tenth_racetracks/icra25/icra25'
     map_img_ext: '.png'
 
     # car parameters and scale
